@@ -21,7 +21,7 @@ A screenshot of this report, for the year 2006, is shown in the Figure 1.
 
 ![image](https://user-images.githubusercontent.com/19204977/225674831-51a08c2d-ef18-4b09-a1bf-7202accf5874.png)
 
-Figure 1 : Yearly airline performance report, year 2006
+			Figure 1 : Yearly airline performance report, year 2006
   
 Second report, yearly average flight delay, consists of a dashboard, with 5 different charts. For a specific year between 2005 and 2020, there are built 5 line charts, showing:
 
@@ -34,7 +34,7 @@ Second report, yearly average flight delay, consists of a dashboard, with 5 diff
 A screenshot of this report, for the year 2018, is shown in the Figure 2.
 ![image](https://user-images.githubusercontent.com/19204977/225681090-7eb189f4-48d3-417c-9c56-f600586d0d1b.png)
 
-Figure 2 :Yearly average flight delay statistics, year 2018
+			Figure 2 :Yearly average flight delay statistics, year 2018
 
 The code is in Python, with Dash and Plotly.
 
